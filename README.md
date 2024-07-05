@@ -1,6 +1,6 @@
-# My Blog Text
+# My Blog Post
 
-Welcome to MyBlogText - Your Ultimate Blogging Platform
+Welcome to MyBlogPost - Your Ultimate Blogging Platform
 Elevate Your Writing Experience
 At MyBlogText, we believe that every voice deserves to be heard. Our platform is designed to empower everyone like you to express your thoughts, share your stories, and connect with a global audience. Whether you're a seasoned writer or just starting your writing journey, MyblogText provides the perfect space to showcase your creativity
 
@@ -72,8 +72,13 @@ Submit a pull request.
 
 ##  Visit  [GitHub][github] 
 
+<<<<<<< HEAD
 [Github]: [Pascal]https://github.com/FosterSetor9060
+=======
+ https://github.com/FosterSector
+>>>>>>> d4c86cab9ab38746f2247cd93044fe9c14a4213f
 
+[Github]: [Foster]https://github.com/FosterSector
 
 Thank you for visiting my blog repository! 
 
@@ -81,6 +86,6 @@ All contributions are welcome.
 
 This is an ALX-Project 
 
-BlogText Landing Page 
+BlogPost Landing Page 
  
 <img width="1271" alt="Screenshot 2023-12-07 at 05 53 10" src="https://github.com/Abstaina44/ALX-Portfolio-Project/assets/48015890/8b48afef-b4b6-4e69-a760-164874c46965">
