@@ -70,18 +70,12 @@ Submit a pull request.
 
 ##  Authors 
 
-##  Visit our [GitHub][github] 
+##  Visit  [GitHub][github] 
 
- https://github.com/Abstaina44
-
- https://github.com/pascallino
-
-[Github]: [Ephraim]https://github.com/Abstaina44
-
-[Github]: [Pascal]https://github.com/pascallino
+[Github]: [Pascal]https://github.com/FosterSetor9060
 
 
-Thank you for visiting our blog repository! 
+Thank you for visiting my blog repository! 
 
 All contributions are welcome.
 
